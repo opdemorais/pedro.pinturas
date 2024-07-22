@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(27, 187, 187);
+  color: rgb(240, 243, 247);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  align-items: center;
+  padding: 30px;
+}
+
+a {
+  color: rgb(9, 4, 26);
+  text-decoration: none;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 5px solid rgb(211, 29, 16);
+}
+
+.center {
+  text-align: center;
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: red;
+}
+
+p {
+  color: rgb(243, 243, 248);
+}
+
+h3 {
+  color: rgb(36, 39, 30);
+}
